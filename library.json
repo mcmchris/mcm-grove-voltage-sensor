@@ -1,0 +1,17 @@
+{
+  "name": "MCMVoltSense",
+  "keywords": "voltage, measurement, energy",
+  "description": "AC Voltage Measurement Library",
+  "version": "0.0.1",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/mcmchris/mcm-grove-voltage-sensor.git"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+    "atmelsam"
+  ]
+}
